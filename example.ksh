@@ -3,6 +3,7 @@ Example file
 
 bla bla
 
+change 2
 
 
 abc
